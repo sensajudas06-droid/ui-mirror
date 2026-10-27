@@ -62,6 +62,10 @@ Masaüstü arayüzü `tkinter` ve yumuşak çizim için Pillow kullanır.
 
 ### Windows EXE ve kurulum
 
+[Hazır 1.9.11 Setup EXE'yi indir](https://github.com/sensajudas06-droid/ui-mirror/releases/download/v1.9.11/Blackwood-UIMirror-Setup-1.9.11.exe).
+[Sürüm sayfasında](https://github.com/sensajudas06-droid/ui-mirror/releases/tag/v1.9.11)
+SHA-256 dosyası ve son kaydedilen VT sonucu bulunur. Setup Python kurulumu gerektirmez.
+
 Windows'ta Python kurmadan kullanmak için derlediğiniz `ui_mirror/dist/Blackwood-UIMirror-Portable.exe`
 dosyasını çalıştırın. `ui_mirror/dist/Blackwood-UIMirror-Setup.exe` kullanıcı hesabına
 kurulur, Başlat menüsü kısayolu ve kaldırıcı oluşturur. Kurulum yönetici yetkisi

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Blackwood angular skull</title>
+  <desc id="desc">A compact ivory skull in a scarlet angular frame, with a split W crown and dark faceted eyes.</desc>
+  <g shape-rendering="geometricPrecision">
+    <polygon fill="#E04B55" points="64,7 92,15 108,34 108,71 94,87 87,104 76,117 52,117 41,104 34,87 20,71 20,34 36,15"/>
+    <polygon fill="#EAEDEA" points="64,14 88,21 101,38 101,68 88,80 80,83 79,101 73,110 55,110 49,101 48,83 40,80 27,68 27,38 40,21"/>
+    <polygon fill="#E04B55" points="35,31 47,27 56,35 64,29 72,35 81,27 93,31 79,43 72,43 64,37 56,43 49,43"/>
+    <polygon fill="#0B0E12" points="34,53 44,47 56,49 58,56 54,66 40,68 33,62"/>
+    <polygon fill="#0B0E12" points="94,53 84,47 72,49 70,56 74,66 88,68 95,62"/>
+    <polygon fill="#0B0E12" points="64,68 54,82 59,86 69,86 74,82"/>
+    <polygon fill="#0B0E12" points="47,91 81,91 79,100 73,106 55,106 49,100"/>
+    <polygon fill="#EAEDEA" points="56,91 60,91 60,101 57,101"/>
+    <polygon fill="#EAEDEA" points="63,91 66,91 66,103 63,103"/>
+    <polygon fill="#EAEDEA" points="70,91 74,91 71,101 68,101"/>
+  </g>
+</svg>

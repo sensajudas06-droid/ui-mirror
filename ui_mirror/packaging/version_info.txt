@@ -1,0 +1,21 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 9, 11, 0), prodvers=(1, 9, 11, 0),
+    mask=0x3f, flags=0x0, OS=0x40004, fileType=0x1,
+    subtype=0x0, date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable('041f04b0', [
+        StringStruct('CompanyName', 'Blackwood'),
+        StringStruct('FileDescription', 'Blackwood UI Mirror'),
+        StringStruct('FileVersion', '1.9.11'),
+        StringStruct('InternalName', 'Blackwood UI Mirror'),
+        StringStruct('OriginalFilename', 'Blackwood UI Mirror.exe'),
+        StringStruct('ProductName', 'Blackwood UI Mirror'),
+        StringStruct('ProductVersion', '1.9.11'),
+      ])
+    ]),
+    VarFileInfo([VarStruct('Translation', [1055, 1200])])
+  ]
+)
